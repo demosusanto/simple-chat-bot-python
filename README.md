@@ -13,10 +13,10 @@
 
 - [audioplayer 0.6](https://pypi.org/project/audioplayer/)
 - If you don't have administrator privileges, install in your home folder.
-## pip3 install audioplayer --user
+- pip3 install audioplayer --user
 
 - [gTTS 2.2.3](https://pypi.org/project/gTTS/)
-## pip install gTTS
+- pip install gTTS
 
 ## Installation
 ```sh
